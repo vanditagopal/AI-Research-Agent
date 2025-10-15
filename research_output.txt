@@ -1,0 +1,16 @@
+--- Research Output ---
+Timestamp: 2025-10-15 23:19:41
+
+{
+  "topic": "Ibiza",
+  "summary": "Ibiza is a Spanish island in the Mediterranean Sea known for its beautiful beaches, crystal-clear water, and world-renowned nightlife. The island has a rich and intriguing history spanning hundreds of years, with influences from ancient cultures such as the Phoenicians, Romans, and Moors. Today, Ibiza is a popular tourist destination, with a unique blend of modern and ancient attractions.",
+  "sources": [
+    "Wikipedia",
+    "Search results"
+  ],
+  "tools_used": [
+    "wikipedia",
+    "search"
+  ]
+}
+
