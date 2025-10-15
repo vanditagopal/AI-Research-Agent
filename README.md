@@ -47,7 +47,7 @@ From building this project, I gained:
 ## 🚀 Usage
 
 1. **Install dependencies** .  
-2. **Create a `.env` file** to store your API keys (Groq and Anthropic).  
+2. **Create a `.env` file** to store your API keys.  
 3. **Run the agent**:
 
 ```bash
