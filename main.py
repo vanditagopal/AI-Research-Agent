@@ -70,7 +70,7 @@ try:
         else:
             raise OutputParserException("Failed to parse JSON from LLM output.")
 
-    print("\OUTPUT")
+    print("OUTPUT")
     print(f"Topic: {structured_response.topic}")
     print(f"Summary:\n{structured_response.summary}\n")
     print(f"Sources: {', '.join(structured_response.sources)}")
